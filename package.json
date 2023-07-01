@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "cypress": "^12.16.0"
+  },
+  "name": "ui-automation-webelement-devy",
+  "version": "1.0.0",
+  "description": "ui testing dan web element",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "npx cypress run",
+    "open": "npx cypress open"
+  },
+  
+  "author": "devy nur sadiah",
+  "license": "ISC"
+}
