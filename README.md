@@ -10,7 +10,8 @@
 1. Install Cypress
 2. Create test scenarios (login, category, product) that use the CSS locator web element 
 3. Reporting and Documentation:
-   - **npm cypress open**
+   - **npm cypress open (video recording)**
+     
      https://github.com/devynursadiah123/UI-Automation-WebElement-devy/tree/0a3a1c76b9b5719a5d4110c30cfb932eec18b27a/cypress/videos
 
    - **npm cypress run**
