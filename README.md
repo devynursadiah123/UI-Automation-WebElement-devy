@@ -11,19 +11,13 @@
 2. Create test scenarios (login, category, product) that use the CSS locator web element 
 3. Reporting and Documentation:
    - **npm cypress open**
+https://github.com/devynursadiah123/UI-Automation-WebElement-devy/blob/0a3a1c76b9b5719a5d4110c30cfb932eec18b27a/cypress/videos/UI-Automation-WebElement-devy.mp4
 
    - **npm cypress run**
-![finis](https://github.com/devynursadiah123/UI-Automation-WebElement-devy/assets/132911115/4effbf80-1e28-4673-86f2-7354e8387a6d)
 
     a. **login.spec.js**
-   
-   ![loginn2](https://github.com/devynursadiah123/UI-Automation-WebElement-devy/assets/132911115/50301ffa-dfbe-45e1-833f-29d7297e30c3)
-
     b. **category.spec.js**
-   ![category 2](https://github.com/devynursadiah123/UI-Automation-WebElement-devy/assets/132911115/0021b8af-acb3-4568-9e94-1682ca91ded3)
-
     c. **product.spec.js**
-   ![product 2](https://github.com/devynursadiah123/UI-Automation-WebElement-devy/assets/132911115/be3ef435-e0b9-4518-a569-0c6995e9b129)
 
 
 
